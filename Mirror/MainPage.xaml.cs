@@ -56,7 +56,7 @@ namespace Mirror
 
         async void OnLoaded(object sender, RoutedEventArgs e)
         {
-            _messageLabel.Text = "Hello, David";
+            _messageLabel.Text = "Hello!";
 
             // I want these to be serialized.
             foreach (var loader in new IAsyncLoader[]

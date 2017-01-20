@@ -121,15 +121,15 @@
     <value />
   </data>
   <data name="Calendars" xml:space="preserve">
-    <value />
+    <value>https://ocsync.homenet.org/nextcloud/remote.php/dav/principals/users/devel%40owncloud.at/</value>
   </data>
   <data name="City" xml:space="preserve">
-    <value>Pewaukee</value>
+    <value>wolkersdorf,at</value>
   </data>
   <data name="OpenWeatherApiKey" xml:space="preserve">
     <value />
   </data>
   <data name="WeatherUom" xml:space="preserve">
-    <value>imperial</value>
+    <value>metric</value>
   </data>
 </root>
